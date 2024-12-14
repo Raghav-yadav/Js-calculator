@@ -1,0 +1,11 @@
+.black-buttons{
+    background-color: #9ca8939c;
+    color: white;
+    cursor: pointer;
+}
+
+.orange-buttons{
+    background-color: rgb(250, 186, 66);
+    cursor: pointer;
+    color: #fff;
+}

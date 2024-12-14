@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+height: 100%;
+width: 100%;
+}
+
+body{
+    background-color: black;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    margin-top: 9vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    border: 2px solid white;
+    row-gap: 1vw;
+    padding: 20px;
+    border-radius: 10px;
+  
+
+}
+.value{
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    height: 7vw;
+    font-size: 1.5vw;
+    font-weight: 700;
+}
+button{
+
+    border-radius: 8vh;
+    padding: 1.5vw;
+    font-size: 2vw;
+}
+.zero{
+    padding-left: 7vw;
+
+}
+.heading{
+    font-weight: 700;
+    font-size: 4vw;
+}
